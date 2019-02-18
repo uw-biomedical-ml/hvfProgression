@@ -6,8 +6,8 @@
 
 This repository holds all the code used to train the models in our Deep Learning HVF paper. 
 
-[[bioRxiv] (https://www.biorxiv.org/content/10.1101/293621v1)](https://www.biorxiv.org/content/10.1101/293621v1)
-[[arXiv] (https://arxiv.org/abs/1804.04543)](https://arxiv.org/abs/1804.04543)
+* [bioRxiv: https://www.biorxiv.org/content/10.1101/293621v1](https://www.biorxiv.org/content/10.1101/293621v1)
+* [arXiv: https://arxiv.org/abs/1804.04543](https://arxiv.org/abs/1804.04543)
 
 
 
